@@ -28,3 +28,4 @@ norfair
 h5py
 imageio-ffmpeg
 pyrender
+PyYAML>=5.1.2
